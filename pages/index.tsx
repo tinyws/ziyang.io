@@ -13,7 +13,7 @@ const Home: NextPage = () => {
         />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <div className="container mx-auto">Hello</div>
+      <div className="container mx-auto text-blue-600">Hello</div>
     </div>
   );
 };
